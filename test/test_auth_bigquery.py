@@ -3,6 +3,7 @@ import unittest
 from detectdd.auth_bigquery import BigQueryClient
 
 
+
 class AuthBigQueryTestCase(unittest.TestCase):
     def test_connect(self):
         mimic_query = """SELECT * FROM `physionet-data.mimiciv_hosp.d_icd_diagnoses` LIMIT 5"""
