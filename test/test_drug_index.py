@@ -1,6 +1,7 @@
 import unittest
 from detectdd.drug_index import DrugIndex
 
+
 class DrugIndexTestCase(unittest.TestCase):
     def test_initialise_drug_index(self):
         drug_index = DrugIndex.init_with_drugbank()
