@@ -16,6 +16,4 @@ cohort_out_file = out_dir / 'cohort.out'
 ## DB tables
 icu_d_items = '`physionet-data.mimiciv_icu.d_items`'
 
-
-
 #%%
