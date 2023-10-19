@@ -41,3 +41,5 @@ DDInter sourced from : http://ddinter.scbdd.com/download/
 
 DrugBank sourced from : https://go.drugbank.com/releases/latest#open-data
 
+ICD data sourced from : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3994866/
+

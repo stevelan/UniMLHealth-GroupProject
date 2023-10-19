@@ -1,0 +1,831 @@
+Code,Meaning,Consensus Likelihood Rating
+D52.1,Drug-induced folate deficiency anaemia,A1
+D59.0,Drug-induced autoimmune haemolytic anaemia,A1
+D59.2,Drug-induced nonautoimmune haemolytic anaemia,A1
+D61.1,Drug-induced aplastic anaemia due to chemotherapy,A1
+D68.3,Hemorrhagic disorder due to circulating anticoagulants,A1
+E06.4,Drug-induced thyroiditis,A1
+E16.0,Drug-induced hypoglycaemia without coma,A1
+E23.1,Drug-induced hypopituitarism,A1
+E24.2,Drug-induced Cushing’s syndrome,A1
+E27.3,Drug-induced adrenocortical insufficiency,A1
+E66.1,Drug-induced obesity,A1
+G21.0,Malignant neuroleptic syndrome,A1
+G21.1,Other drug-induced secondary parkinsonism,A1
+G24.0,Drug-induced dystonia,A1
+G25.1,Drug-induced tremor,A1
+G25.4,Drug-induced chorea,A1
+G25.6,Drug-induced tics and other tics of organic origin,A1
+G44.4,"Drug-induced headache, not elsewhere classified",A1
+G62.0,Drug-induced polyneuropathy,A1
+G72.0,Drug-induced myopathy,A1
+H26.3,Drug-induced cataract,A1
+H40.6,Glaucoma secondary to drugs,A1
+I95.2,Hypotension due to drugs,A1
+J70.2,Acute drug-induced interstitial lung disorders,A1
+J70.3,Chronic drug-induced interstitial lung disorders,A1
+J70.4,"Drug-induced interstitial lung disorders, unspecified",A1
+K85.3,Drug-induced pancreatitis,A1
+L10.5,Drug-induced pemphigus,A1
+L43.2,Lichenoid drug reaction,A1
+L56.0,Drug phototoxic response,A1
+L56.1,Drug photoallergic response,A1
+L64.0,Drug-induced androgenic alopecia,A1
+M10.2,Drug-induced gout,A1
+M32.0,Drug-induced systemic lupus erythematosus,A1
+M80.4,Drug-induced osteoporosis with pathological fracture,A1
+M81.4,Drug-induced osteoporosis without pathological fracture,A1
+M83.5,Other drug-induced osteomalacia in adults,A1
+M87.1,Osteonecrosis due to drugs,A1
+N14.0,Analgesic nephropathy,A1
+O74.4,Toxic reaction to local anaesthesia during labour and delivery,A1
+P04.0,"Fetus and newborn affected by maternal anaesthesia and analgesia in pregnancy, labour and delivery",A1
+P04.1,Fetus and newborn affected by other maternal medication,A1
+P96.2,Withdrawal symptoms from therapeutic use of drugs in newborn,A1
+Q86.1,Fetal hydantoin syndrome,A1
+Q86.2,Dysmorphism due to warfarin,A1
+R50.2,Drug-induced fever,A1
+T88.3,Malignant hyperthermia due to anaesthesia,A1
+Y40-Y59,Adverse Drug reactions,A1
+Y40,"Drugs, medicaments, and biological substances causing adverse effects in therapeutic use - systemic antibiotic",A1
+Y41,"Drugs, medicaments, and biological substances causing adverse effects in therapeutic use - other systemic anti-infectives and antiparasitics",A1
+Y42,"Drugs, medicaments, and biological substances causing adverse effects in therapeutic use - Hormones and their synthetic substitutes and antagonists, not elsewhere classified",A1
+Y42.7,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Hormones and their synthetic substitutes and antagonists, not elsewhere classified, Androgens and anabolic congener",A1
+Y43,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Primarily systemic agents",A1
+Y44,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Agents primarily affecting blood constituents",A1
+Y44.0,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Agents primarily affecting blood constituents, Iron preparations and other anti-hypochromic-anaemia preparations",A1
+Y44.2,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Agents primarily affecting blood constituents, Anticoagulants",A1
+Y45,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Analgesics, antipyretics and anti-inflammatory drugs",A1
+Y45.5,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Analgesics, antipyretics and anti-inflammatory drugs, 4-Aminophenol derivatives",A1
+Y46,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Antiepileptics and antiparkinsonism drugs",A1
+Y47,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Sedatives, hypnotics and antianxiety drugs",A1
+Y47.1,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Sedatives, hypnotics and antianxiety drugs, Benzodiazepines",A1
+Y48,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Anaesthetics and therapeutic gases",A1
+Y48.1,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Anaesthetics and therapeutic gases, Parenteral anaesthetics",A1
+Y48.2,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Anaesthetics and therapeutic gases, Other and unspecified general anaesthetics",A1
+Y48.3,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Anaesthetics and therapeutic gases, Local anaesthetics",A1
+Y48.4,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Anaesthetics and therapeutic gases, Anaesthetic, unspecified",A1
+Y49,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Psychotropic drugs, not elsewhere classified",A1
+Y50,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Central nervous system stimulants, not elsewhere classified",A1
+Y51,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Drugs primarily affecting the autonomic nervous system",A1
+Y52,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Agents primarily affecting the cardiovascular system",A1
+Y53,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Agents primarily affecting the gastrointestinal system",A1
+Y54,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Agents primarily affecting water-balance and mineral and uric acid metabolism",A1
+Y55,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Agents primarily acting on smooth and skeletal muscles and the respiratory system",A1
+Y55.1,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Agents primarily acting on smooth and skeletal muscles and the respiratory system, Skeletal muscle relaxants [neuromuscular blocking agents]",A1
+Y56,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Topical agents primarily affecting skin and mucous membrane and ophthalmological, otorhinolaryngological and dental drugs",A1
+Y57,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use -Other and unspecified drugs and medicaments",A1
+Y57.5,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use -Other and unspecified drugs and medicaments, X-ray contrast media",A1
+Y58,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Bacterial vaccines",A1
+Y59,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use - Other and unspecified vaccines and biological substances",A1
+Y88.0,"Sequelae of adverse effects caused by drugs, medicaments and biological substances in therapeutic use",A1
+D64.2,Secondary sideroblastic anaemia due to drugs and toxins,A2
+E03.2,Hypothyroidism due to medicaments and other exogenous substances,A2
+F11,Mental and behavioural disorders due to use of opioids,A2
+F11.0,Mental and behavioural disorders due to use of opioids: Acute intoxication,A2
+F11.1,Mental and behavioural disorders due to use of opioids: Harmful use,A2
+F11.2,Mental and behavioural disorders due to use of opioids: Dependence syndrome,A2
+F11.3,Mental and behavioural disorders due to use of opioids: Withdrawal state,A2
+F11.4,Mental and behavioural disorders due to use of opioids: Withdrawal state with delirium,A2
+F11.5,Mental and behavioural disorders due to use of opioids: Psychotic disorder,A2
+F11.6,Mental and behavioural disorders due to use of opioids: Amnesic syndrome,A2
+F11.7,Mental and behavioural disorders due to use of opioids: Residual and late-onset psychotic disorder,A2
+F11.8,Mental and behavioural disorders due to use of opioids: Other mental and behavioural disorders,A2
+F11.9,Mental and behavioural disorders due to use of opioids: Unspecified mental and behavioural disorder,A2
+F13,Mental and behavioural disorders due to use of sedatives or hypnotics,A2
+F13.0,Mental and behavioural disorders due to use of sedatives or hypnotics: Acute intoxication,A2
+F13.1,Mental and behavioural disorders due to use of sedatives or hypnotics: Harmful use,A2
+F13.2,Mental and behavioural disorders due to use of sedatives or hypnotics: Dependence syndrome,A2
+F13.3,Mental and behavioural disorders due to use of sedatives or hypnotics: Withdrawal state,A2
+F13.4,Mental and behavioural disorders due to use of sedatives or hypnotics: Withdrawal state with delirium,A2
+F13.5,Mental and behavioural disorders due to use of sedatives or hypnotics: Psychotic disorder,A2
+F13.6,Mental and behavioural disorders due to use of sedatives or hypnotics: Amnesic syndrome,A2
+F13.7,Mental and behavioural disorders due to use of sedatives or hypnotics: Residual and late-onset psychiatric disorder,A2
+F13.8,Mental and behavioural disorders due to use of sedatives or hypnotics: Other mental and behavioural disorders,A2
+F13.9,Mental and behavioural disorders due to use of sedatives or hypnotics: Unspecified mental and behavioural disorder,A2
+F15.0,"Mental and behavioural disorders due to use of other stimulants, including caffeine: Acute intoxication ",A2
+F15.1,"Mental and behavioural disorders due to use of other stimulants, including caffeine: Harmful use",A2
+F15.2,"Mental and behavioural disorders due to use of other stimulants, including caffeine: Dependence syndrome",A2
+F15.3,"Mental and behavioural disorders due to use of other stimulants, including caffeine: Withdrawal state",A2
+F15.4,"Mental and behavioural disorders due to use of other stimulants, including caffeine: Withdrawal state with delirium",A2
+F15.5,"Mental and behavioural disorders due to use of other stimulants, including caffeine: Psychotic disorder ",A2
+F15.6,"Mental and behavioural disorders due to use of other stimulants, including caffeine: Amnesic syndrome ",A2
+F15.7,"Mental and behavioural disorders due to use of other stimulants, including caffeine: Residual and late-onset psychotic disorder ",A2
+F15.8,"Mental and behavioural disorders due to use of other stimulants, including caffeine: Other mental and behavioural disorders",A2
+F15.9,"Mental and behavioural disorders due to use of other stimulants, including caffeine: Unspecified mental and behavioural disorder",A2
+F19.0,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: Acute intoxication,A2
+F19.1,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: Harmful use ,A2
+F19.2,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: Dependence syndrome ,A2
+F19.3,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: Withdrawal state ,A2
+F19.4,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: Withdrawal state with delirium ,A2
+F19.5,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: Psychotic disorder,A2
+F19.6,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: Amnesic syndrome,A2
+F19.7,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: Residual and late-onset psychotic disorder,A2
+F19.8,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: Other mental and behavioural disorders,A2
+F19.9,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances: Unspecified mental and behavioural disorder ,A2
+G21.2,Secondary parkinsonism due to other external agents,A2
+I42.7,Cardiomyopathy due to drugs and other external agents,A2
+L23.3,Allergic contact dermatitis due to drugs in contact with skin,A2
+L24.4,Irritant contact dermatitis due to drugs in contact with skin,A2
+L25.1,Unspecified contact dermatitis due to drugs in contact with skin,A2
+L27,Dermatitis due to substances taken internally,A2
+L27.0,Generalized skin eruption due to drugs and medicaments,A2
+L27.1,Localized skin eruption due to drugs and medicaments,A2
+L27.8,Dermatitis due to other substances taken internally,A2
+L27.9,Dermatitis due to unspecified substance taken internally,A2
+M34.2,Systemic sclerosis induced by drugs and chemicals,A2
+N14.1,"Nephropathy induced by other drugs, medicaments and biological substances",A2
+N14.2,"Nephropathy induced by unspecified drug, medicament or biological substance",A2
+N14.3,Nephropathy induced by heavy metals,A2
+N14.4,"Toxic nephropathy, not elsewhere classified",A2
+O35.5,Maternal care for (suspected) damage to fetus by drugs,A2
+P04.4,Fetus and newborn affected by maternal use of drugs of addiction,A2
+P58.4,Neonatal jaundice due to drugs or toxins transmitted from mother or given to newborn,A2
+P93,Reactions and intoxications due to drugs administered to fetus and newborn,A2
+P96.1,Neonatal withdrawal symptoms from maternal use of drugs of addiction,A2
+T78,"Adverse effects, not elsewhere classified",A2
+T78.2,"Anaphylactic shock, unspecified",A2
+T78.3,Angioneurotic oedema,A2
+T78.4,"Allergy, unspecified",A2
+T78.8,"Other adverse effects, not elsewhere classified",A2
+T78.9,"Adverse effect, unspecified",A2
+T80.1,"Vascular complications following infusion, transfusion and therapeutic injection",A2
+T80.2,"Infections following infusion, transfusion and therapeutic injection",A2
+T80.3,ABO incompatibility reaction,A2
+T80.4,Rh incompatibility reaction,A2
+T80.5,"Complications following infusion, transfusion and therapeutic injection: anaphylactic shock due to serum",A2
+T80.6,"Complications following infusion, transfusion and therapeutic injection: other serum reactions",A2
+T80.8,"Other complications following infusion, transfusion and therapeutic injection",A2
+T80.9,"Unspecified complication following infusion, transfusion and therapeutic injection",A2
+T88.6,Anaphylactic shock due to adverse effect of correct drug or medicament properly administered,A2
+T88.7,Unspecified adverse event of drug or medicament,A2
+Y57.9,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use -Other and unspecified drugs and medicaments, Drug or medicament, unspecified",A2
+Y59.9,"Vaccine or biological substance, unspecified",A2
+Z03.6,Observation for suspected toxic effect from ingested substance,A2
+T36-T50,"Poisoning by drugs, medicaments and biological substances: “premature, excessive, inappropriate or wrong medication, formulation or route”9 -- overdose of these substances (accidental or not) - wrong substance given or taken in error",B1
+T36,Poisoning by systemic antibiotics,B1
+T36.0,Penicillins,B1
+T36.1,Cefalosporins and other beta-lactam antibiotics,B1
+T36.2,Chloramphenicol group,B1
+T36.3,Macrolides,B1
+T36.4,Tetracyclines,B1
+T36.5,Aminoglycosides,B1
+T36.6,Rifamycins,B1
+T36.7,"Antifungal antibiotics, systemically used",B1
+T36.8,Other systemic antibiotics,B1
+T36.9,"Systemic antibiotic, unspecified",B1
+T37,Poisoning by other systemic anti-infectives and anti-parasitics,B1
+T37.0,Sulfonamides,B1
+T37.1,Antimycobacterial drugs,B1
+T37.2,Antimalarials and drugs acting on other blood protozoa,B1
+T37.3,Other antiprotozoal drugs,B1
+T37.4,Anthelminthics,B1
+T37.5,Antiviral drugs,B1
+T37.8,Other specified systemic anti-infectives and antiparasitics,B1
+T37.9,"Systemic anti-infective and antiparasitic, unspecified",B1
+T38,"Poisoning by hormones and their synthetic substitutes and antagonists, not elsewhere classified",B1
+T38.0,Glucocorticoids and synthetic analogues,B1
+T38.1,Thyroid hormones and substitutes,B1
+T38.2,Antithyroid drugs,B1
+T38.3,Insulin and oral hypoglycaemic [antidiabetic] drugs,B1
+T38.4,Oral contraceptives,B1
+T38.5,Other estrogens and progestogens,B1
+T38.6,"Antigonadotrophins, antiestrogens, antiandrogens, not elsewhere classified",B1
+T38.7,Androgens and anabolic congeners,B1
+T38.8,Other and unspecified hormones and their synthetic substitutes,B1
+T38.9,Other and unspecified hormone antagonists,B1
+T39,"Poisoning by nonopioid analgesics, antipyretics and antirheumatics",B1
+T39.0,Salicylates,B1
+T39.1,4-Aminophenol derivatives,B1
+T39.2,Pyrazolone derivatives,B1
+T39.3,Other nonsteroidal anti-inflammatory drugs [NSAID],B1
+T39.4,"Antirheumatics, not elsewhere classified",B1
+T39.8,"Other nonopioid analgesics and antipyretics, not elsewhere classified",B1
+T39.9,"Nonopioid analgesic, antipyretic and antirheumatic, unspecified",B1
+T40,Poisoning by narcotics and psychodysleptics,B1
+T40.0,Opium,B1
+T40.1,Heroin,B1
+T40.2,Poisoning by other opioids (includes morphine and codeine),B1
+T40.3,Poisoning by Methadone,B1
+T40.4,"Poisoning by other synthetic narcotics (buprenorphine, pethidine, destropropoxyphene etc.)",B1
+T40.5,Cocaine,B1
+T40.6,Poisoning by other and unspecified narcotics,B1
+T40.7,Cannabis (derivatives),B1
+T40.8,Lysergide [LSD],B1
+T40.9,Other and unspecified psychodysleptics [hallucinogens],B1
+T41,Poisoning by anaesthetics and therpeutic gases,B1
+T41.0,Inhaled anaesthetics,B1
+T41.1,Intravenous anaesthetics,B1
+T41.2,Other and unspecified general anaesthetics,B1
+T41.3,Local anaesthetics,B1
+T41.4,"Anaesthetic, unspecified",B1
+T41.5,Therapeutic gases,B1
+T42,"Poisoning by antiepileptic, sedative-hypnotic and antiparkinsonism drugs",B1
+T42.0,Hydantoin derivatives,B1
+T42.1,Iminostilbenes,B1
+T42.2,Succinimides and oxazolidinediones,B1
+T42.3,Barbiturates,B1
+T42.4,Poisoning by benzodiazepines,B1
+T42.5,"Mixed antiepileptics, not elsewhere classified",B1
+T42.6,Other antiepileptic and sedative-hypnotic drugs,B1
+T42.7,"Antiepileptic and sedative-hypnotic drugs, unspecified",B1
+T42.8,Antiparkinsonism drugs and other central muscle-tone depressants,B1
+T43,"Poisoning by psychotropic drugs, not elsewhere classified",B1
+T43.0,Poisoning by tricyclic and tetracyclic antidepressants,B1
+T43.1,Monoamine-oxidase-inhibitor antidepressants,B1
+T43.2,Poisoning by other and unspecified antidepressants,B1
+T43.3,Phenothiazine antipsychotics and neuroleptics,B1
+T43.4,Butyrophenone and thioxanthene neuroleptics,B1
+T43.5,Other and unspecified antipsychotics and neuroleptics,B1
+T43.6,Poisoning by psychostimulants with abuse potential,B1
+T43.8,"Other psychotropic drugs, not elsewhere classified",B1
+T43.9,"Psychotropic drug, unspecified",B1
+T44,Poisoning by drugs primarily affecting the autonomic nervous system,B1
+T44.0,Anticholinesterase agents,B1
+T44.1,Other parasympathomimetics [cholinergics],B1
+T44.2,"Ganglionic blocking drugs, not elsewhere classified",B1
+T44.3,"Other parasympatholytics [anticholinergics and antimuscarinics] and spasmolytics, not elsewhere classified",B1
+T44.4,"Predominantly alpha-adrenoreceptor agonists, not elsewhere classified",B1
+T44.5,"Predominantly beta-adrenoreceptor agonists, not elsewhere classified",B1
+T44.6,"Alpha-adrenoreceptor antagonists, not elsewhere classified",B1
+T44.7,"Beta-adrenoreceptor antagonists, not elsewhere classified",B1
+T44.8,"Centrally acting and adrenergic-neuron-blocking agents, not elsewhere classified",B1
+T44.9,Other and unspecified drugs primarily affecting the autonomic nervous system,B1
+T45,"Poisoning by primarily ststemic and haematological agents, not elsewhere classified",B1
+T45.0,Antiallergic and antiemetic drugs,B1
+T45.1,Antineoplastic and immunosuppressive drugs,B1
+T45.2,"Vitamins, not elsewhere classified",B1
+T45.3,"Enzymes, not elsewhere classified",B1
+T45.4,Iron and its compounds,B1
+T45.5,Anticoagulants,B1
+T45.6,Fibrinolysis-affecting drugs,B1
+T45.7,"Anticoagulant antagonists, vitamin K and other coagulants",B1
+T45.8,Other primarily systemic and haematological agents,B1
+T45.9,"Primarily systemic and haematological agent, unspecified",B1
+T46,Poisoning by agents primarily affecting the cardiovascular system,B1
+T46.0,Cardiac-stimulant glycosides and drugs of similar action,B1
+T46.1,Calcium-channel blockers,B1
+T46.2,"Other antidysrhythmic drugs, not elsewhere classified",B1
+T46.3,"Coronary vasodilators, not elsewhere classified",B1
+T46.4,Angiotensin-converting-enzyme inhibitors,B1
+T46.5,"Other antihypertensive drugs, not elsewhere classified",B1
+T46.6,Antihyperlipidaemic and antiarteriosclerotic drugs,B1
+T46.7,Peripheral vasodilators,B1
+T46.8,"Antivaricose drugs, including sclerosing agents",B1
+T46.9,Other and unspecified agents primarily affecting the cardiovascular system,B1
+T47,Poisoning by agents primarily affecting the gastrointestinal system,B1
+T47.0,Histamine H 2 -receptor antagonists,B1
+T47.1,Other antacids and anti-gastric-secretion drugs,B1
+T47.2,Stimulant laxatives,B1
+T47.3,Saline and osmotic laxatives,B1
+T47.4,Other laxatives,B1
+T47.5,Digestants,B1
+T47.6,Antidiarrhoeal drugs,B1
+T47.7,Emetics,B1
+T47.8,Other agents primarily affecting the gastrointestinal system,B1
+T47.9,"Agent primarily affecting the gastrointestinal system, unspecified",B1
+T48,Poisoning by agents primarily acting on smooth and skeletal muscles and the respiratory system,B1
+T48.0,Oxytocic drugs,B1
+T48.1,Skeletal muscle relaxants [neuromuscular blocking agents],B1
+T48.2,Other and unspecified agents primarily acting on muscles,B1
+T48.3,Antitussives,B1
+T48.4,Expectorants,B1
+T48.5,Anti-common-cold drugs,B1
+T48.6,"Antiasthmatics, not elsewhere classified",B1
+T48.7,Other and unspecified agents primarily acting on the respiratory system,B1
+T49.0,"Local antifungal, anti-infective and anti-inflammatory drugs, not elsewhere classified",B1
+T49,"Poisoning by topical agents primarily affecting skin and mucous membrane and by ophthalmological, otorhinolaryngological and dental drugs",B1
+T49.1,Antipruritics,B1
+T49.2,Local astringents and local detergents,B1
+T49.3,"Emollients, demulcents and protectants",B1
+T49.4,"Keratolytics, keratoplastics and other hair treatment drugs and preparations",B1
+T49.5,Ophthalmological drugs and preparations,B1
+T49.6,Otorhinolaryngological drugs and preparations,B1
+T49.7,"Dental drugs, topically applied",B1
+T49.8,Other topical agents,B1
+T49.9,"Topical agent, unspecified",B1
+T50,"Poisoning by diuretics and other unspecified drugs, medicaments and biological substances",B1
+T50.0,Mineralocorticoids and their antagonists,B1
+T50.1,Loop [high-ceiling] diuretics,B1
+T50.2,"Carbonic-anhydrase inhibitors, benzothiadiazides and other diuretics",B1
+T50.4,Drugs affecting uric acid metabolism,B1
+T50.6,"Antidotes and chelating agents, not elsewhere classified",B1
+T50.7,Analeptics and opioid receptor antagonists,B1
+F55,Abuse of non-dependence-producing substances,B2
+T50.3,"Electrolytic, caloric and water-balance agents",B2
+T50.5,Appetite depressants,B2
+T50.8,Diagnostic agents,B2
+T50.9,"Poisoning: Other and unspecified drugs, medicaments and biological substances",B2
+T96,"Sequelae of poisoning by drugs, medicaments and biological substances",B2
+X40,"Accidental poisoning by and exposure to nonopioid analgesics, antipyretics, and antirheumatics including acetominophen",B2
+X41,"Accidental poisoning by and exposure to antiepileptic, sedative hypnotic, antiparkinsonism, psychotropic drugs NEC",B2
+X42,"Accidental poisoning by and exposure to narcotics and psychodysleptics (hallucinogens) NEC (includes diamorphine (heroin), cocaine, codeine, lysergide (LSD), morphine, pethidine, narcotic NEC, hallucinogen NEC, hydrocodone, oxycodone (oxycontin) and fentanyl, among others)",B2
+X43,Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system,B2
+X44,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments, and biological substances",B2
+X45.5,Adverse effects of therapeutic use of 4-aminophenol derivatives,B2
+Y10,"Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics, undetermined intent",B2
+A04.7,Enterocolitis due to Clostridium difficile,C
+E15,Nondiabetic hypoglycaemic coma,C
+H91.0,Ototoxic hearing loss,C
+K52.1,Toxic gastroenteritis and colitis,C
+K71.0,Toxic liver disease with cholestasis,C
+K71.1,Toxic liver disease with hepatic necrosis,C
+K71.2,Toxic liver disease with acute hepatitis,C
+K71.3,Toxic liver disease with chronic persistent hepatitis,C
+K71.4,Toxic liver disease with chronic lobular hepatitis,C
+K71.5,Toxic liver disease with chronic active hepatitis,C
+K71.6,"Toxic liver disease with hepatitis, not elsewhere classified",C
+K71.7,Toxic liver disease with fibrosis and cirrhosis of liver,C
+K71.8,Toxic liver disease with other disorders of liver,C
+K71.9,"Toxic liver disease, unspecified",C
+L51,Erythema multiforme,C
+L51.0,Nonbullous erythema multiforme,C
+L51.1,Bullous erythema multiforme,C
+L51.2,Toxic epidermal necrolysis [Lyell],C
+L51.8,Other erythema multiforme,C
+L51.9,"Erythema multiforme, unspecified",C
+L56.2,Photocontact dermatitis [berloque dermatitis],C
+N99.0,Postprocedural renal failure,C
+O74.2,Cardiac complications of anaesthesia during labour and delivery,C
+O74.3,Central nervous system complications of anaesthesia during labour and delivery,C
+Y63,Failure in dosage during surgical and medical care,C
+Y65.1,Wrong fluid in infusion,C
+Y69,Unspecified misadventure during surgical and medical care,C
+D62,Acute posthaemorrhagic anaemia,D
+D69.5,Secondary thrombocytopenia,D
+D69.6,"Thrombocytopenia, unspecified",D
+D70,Agranulocytosis,D
+F52,"Sexual dysfunction, not caused by organic disorder or disease",D
+F52.0,Lack or loss of sexual desire,D
+F52.1,Sexual aversion and lack of sexual enjoyment,D
+F52.2,Failure of genital response,D
+F52.3,Orgasmic dysfunction,D
+F52.4,Premature ejaculation,D
+F52.5,Nonorganic vaginismus,D
+F52.6,Nonorganic dyspareunia,D
+F52.7,Excessive sexual drive,D
+F52.8,"Other sexual dysfunction, not caused by organic disorder or disease",D
+F52.9,"Unspecified sexual dysfunction, not caused by organic disorder or disease",D
+H53,Visual disturbances,D
+H53.0,Amblyopia ex anopsia,D
+H53.1,Subjective visual disturbances,D
+H53.2,Diplopia,D
+H53.3,Other disorders of binocular vision,D
+H53.4,Visual field defects,D
+H53.5,Colour vision deficiencies,D
+H53.6,Night blindness,D
+H53.8,Other visual disturbances,D
+H53.9,"Visual disturbance, unspecified",D
+I15.8,Other secondary hypertension,D
+I15.9,"Secondary hypertension, unspecified",D
+J45.1,Nonallergic asthma,D
+K25.0,Gastric ulcer: Acute with haemorrhage,D
+K25.1,Gastric ulcer: Acute with perforation,D
+K25.2,Gastric ulcer: Acute with both haemorrhage and perforation,D
+K25.3,Gastric ulcer: Acute without haemorrhage or perforation,D
+K25.4,Gastric ulcer: Chronic or unspecified with haemorrhage,D
+K25.5,Gastric ulcer: Chronic or unspecified with perforation,D
+K25.6,Gastric ulcer: Chronic or unspecified with both haemorrhage and perforation,D
+K25.7,Gastric ulcer: Chronic without haemorrhage or perforation,D
+K25.9,"Gastric ulcer: Unspecified as acute or chronic, without haemorrhage or perforation",D
+K26.0,Duodenal ulcer: Acute with haemorrhage,D
+K26.1,Duodenal ulcer: Acute with perforation,D
+K26.2,Duodenal ulcer: Acute with both haemorrhage and perforation,D
+K26.3,Duodenal ulcer: Acute without haemorrhage or perforation,D
+K26.4,Duodenal ulcer: Chronic or unspecified with haemorrhage,D
+K26.5,Duodenal ulcer: Chronic or unspecified with perforation,D
+K26.6,Duodenal ulcer: Chronic or unspecified with both haemorrhage and perforation,D
+K26.7,Duodenal ulcer: Chronic without haemorrhage or perforation,D
+K26.9,"Duodenal ulcer: Unspecified as acute or chronic, without haemorrhage or perforation",D
+K27.0,"Peptic ulcer, site unspecified: Acute with haemorrhage",D
+K27.1,"Peptic ulcer, site unspecified: Acute with perforation",D
+K27.2,"Peptic ulcer, site unspecified: Acute with both haemorrhage and perforation",D
+K27.3,"Peptic ulcer, site unspecified: Acute without haemorrhage or perforation",D
+K27.4,"Peptic ulcer, site unspecified: Chronic or unspecified with haemorrhage",D
+K27.5,"Peptic ulcer, site unspecified: Chronic or unspecified with perforation",D
+K27.6,"Peptic ulcer, site unspecified: Chronic or unspecified with both haemorrhage and perforation",D
+K27.7,"Peptic ulcer, site unspecified: Chronic without haemorrhage or perforation",D
+K27.9,"Peptic ulcer, site unspecified: Unspecified as acute or chronic, without haemorrhage or perforation",D
+K28,Gastrojujenal ulcer,D
+K28.0,Gastrojejunal ulcer: Acute with haemorrhage,D
+K28.1,Gastrojejunal ulcer: Acute with perforation,D
+K28.2,Gastrojejunal ulcer: Acute with both haemorrhage and perforation,D
+K28.3,Gastrojejunal ulcer: Acute without haemorrhage or perforation,D
+K28.4,Gastrojejunal ulcer: Chronic or unspecified with haemorrhage,D
+K28.5,Gastrojejunal ulcer: Chronic or unspecified with perforation,D
+K28.6,Gastrojejunal ulcer: Chronic or unspecified with both haemorrhage and perforation,D
+K28.7,Gastrojejunal ulcer: Chronic without haemorrhage or perforation,D
+K28.9,"Gastrojejunal ulcer: Unspecified as acute or chronic, without haemorrhage or perforation",D
+K29.0,Acute haemorrhagic gastritis,D
+K52.9,"Non-infective gastroenteritis and colitis, unspecified",D
+L29.0,Pruritus ani,D
+L29.1,Pruritus scroti,D
+L29.2,Pruritus vulvae,D
+L29.3,"Anogenital pruritus, unspecified",D
+L29.8,Other pruritus,D
+L29.9,"Pruritus, unspecified",D
+L50.0,Allergic urticaria,D
+N17,Acute renal failure,D
+N17.0,Acute renal failure with tubular necrosis,D
+N17.1,Acute renal failure with acute cortical necrosis ,D
+N17.2,Acute renal failure with medullary necrosis,D
+N17.8,Other acute renal failure,D
+N17.9,"Acute renal failure, unspecified",D
+N18,Chronic kidney disease,D
+N18.0,End-stage renal disease,D
+N18.9,"Chronic renal failure, unspecified",D
+N19,Unspecified renal failure,D
+O26.6,"Liver disorders in pregnancy, childbirth and the puerperium",D
+O74.6,Other complications of spinal and epidural anaesthesia during labour and delivery,D
+T88.5,Other complications of anaesthesia,D
+Y66,Non administration of surgical and medical care,D
+D50.0,Cod,E
+D61.9,"Aplastic Anemia, unspecified",E
+D65,Disseminated intravascular coagulation (defibrination syndrome),E
+D68.4,Acquired coagulation factor deficiency,E
+D68.9,"Coagulation defect, unspecified",E
+D69,Purpura and other haemorrhagic conditions,E
+D69.9,"Hemorrhagic condition, unspecified",E
+E86,Volume depletion,E
+E87,Hyperosmolality and hypernatremia,E
+E87.0,Hyperosmolality and hypernatraemia,E
+E87.1,Hypo-osmolality and hyponatraemia,E
+E87.2,Acidosis,E
+E87.3,Alkalosis,E
+E87.4,Mixed disorder of acid-base balance,E
+E87.5,Hyperkalaemia,E
+E87.6,Hypokalaemia,E
+E87.7,Fluid overload,E
+E87.8,"Other disorders of electrolyte and fluid balance, not elsewhere classified",E
+F05,"Delirium, not induced by alcohol and other psychoactive substances",E
+F15,"Mental and behavioural disorders due to use of other stimulants, including caffeine",E
+F16,Mental and behavioural disorders due to use of hallucinogens,E
+F19,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,E
+G04.0,Acute disseminated encephalitis,E
+G25.3,Myoclonus,E
+G40.5,Special epileptic syndromes,E
+G71.1,Myotonic disorders,E
+G95.8,Other specified diseases of spinal cord,E
+H11.3,Conjunctival hemorrhage,E
+H21.0,Hyphaema,E
+H31.3,Choroidal hemorrhage and rupture,E
+H35.6,Retinal hemorrhage,E
+H43.1,Vitreous hemorrhage,E
+H92.2,Otorrhagia,E
+I26.0,Pulmonary embolism with mention of acute cor pulmonale,E
+I26.9,Pulmonary embolism without mention of acute cor pulmonale,E
+I31.2,"Haemopericardium, not elsewhere classified",E
+I44,Atrioventricular and left bundle-branch block,E
+I44.0,"Atrioventricular block, first degree",E
+I44.1,"Atrioventricular block, second degree",E
+I44.2,"Atrioventricular block, complete",E
+I44.3,Other and unspecified atrioventricular block,E
+I44.4,Left anterior fascicular block,E
+I44.5,Left posterior fascicular block,E
+I44.6,Other and unspecified fascicular block,E
+I44.7,"Left bundle-branch block, unspecified",E
+I45.8,Other specified conduction disorders,E
+I46.1,"Sudden cardiac death, so described",E
+I47.2,Ventricular tachycardia,E
+I60,Subarachanoid hemorrhage,E
+I61,Intracerebral hemorrhage,E
+I61.0,"Intracerebral haemorrhage in hemisphere, subcortical",E
+I61.1,"Intracerebral haemorrhage in hemisphere, cortical",E
+I61.2,"Intracerebral haemorrhage in hemisphere, unspecified",E
+I61.3,Intracerebral haemorrhage in brain stem,E
+I61.4,Intracerebral haemorrhage in cerebellum,E
+I61.5,"Intracerebral haemorrhage, intraventricular",E
+I61.6,"Intracerebral haemorrhage, multiple localized",E
+I61.8,Other intracerebral haemorrhage,E
+I61.9,"Intracerebral haemorrhage, unspecified",E
+I62,Other nontraumatic intracranial hemorrhage,E
+I80,Phlebitis and thrombophlebitis,E
+I80.0,Phlebitis and thrombophlebitis of superficial vessels of lower extremities,E
+I80.1,Phlebitis and thrombophlebitis of femoral vein,E
+I80.2,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,E
+I80.3,"Phlebitis and thrombophlebitis of lower extremities, unspecified",E
+I80.8,Phlebitis and thrombophlebitis of other sites,E
+I80.9,Phlebitis and thrombophlebitis of unspecified site,E
+I95,Hypotension,E
+J38.5,Laryngeal spasm,E
+J45.0,Predominantly allergic asthma,E
+J45.8,Mixed asthma,E
+J81,Pulmonary oedema,E
+K25,Gastric ulcer,E
+K26,Duodenal ulcer,E
+K27,"Peptic ulcer, site unspecified",E
+K62.5,Hemorrhage of anus and rectum,E
+K66.1,Hemoperitoneum,E
+K71,Toxic liver disease,E
+K72.0,Acute and subacute hepatic failure,E
+K72.9,"Hepatic failure, unspecified",E
+K76.7,Hepatorenal syndrome,E
+K92.0,Hematemesis,E
+K92.1,Melena,E
+K92.2,"Gastrointestinal haemorrhage, unspecified",E
+L21,Seborrhoeic dermatitis,E
+L21.0,Seborrhoea capitis,E
+L21.1,Seborrhoeic infantile dermatitis,E
+L26,Exfoliative dermatitis,E
+L28,Lichen simplex chronicus and prurigo,E
+L30,Other dermatitis,E
+L52,Erythema nodosum,E
+L71.0,Perioral dermatitis,E
+M25.0,Hemarthrosis,E
+M31.0,Hypersensitivity angiitis,E
+M62.8,Other specified disorders of muscle,E
+N42.1,Congestion and hemorrhage of prostate,E
+N62,Hypertrophy of breast,E
+N83.6,Hemosalpinx,E
+N83.7,Hematoma of broad ligament,E
+N85.7,Hematometra,E
+N89.7,Hematocolpos,E
+N95.3,States associated with artificial menopause,E
+R00.1,"Bradycardia, unspecified",E
+R04.0,Epistaxis,E
+R04.1,Hemorrhage from throat,E
+R04.8,Hemorrhage from other sites in respiratory passage,E
+R04.9,"Hemorrhage from respiratory passage, unspecified",E
+R06.0,Dyspnoea,E
+R11,Nausea and vomiting,E
+R17,Unspecified jaundice,E
+R20,Disturbances of skin sensation,E
+R21,Rash and other nonspecific skin eruption,E
+R23,Other skin changes,E
+R23.3,Spontaneous ecchymoses,E
+R31,Unspecified hematuria,E
+R34,Anuria and oliguria,E
+R41.0,"Disorientation, unspecified",E
+R42,Dizziness and giddiness,E
+R44.0,Auditory hallucinations,E
+R44.1,Visual hallucinations,E
+R44.2,Other hallucinations,E
+R44.3,"Hallucinations, unspecified",E
+R51,Headache,E
+R55,Syncope and collapse,E
+R58,"Haemorrhage, not elsewhere classified",E
+R73.9,"Hyperglycaemia, unspecified",E
+R74.0,Elevation of levels of transaminase and lactic acid dehydrogenase [LDH],E
+S06.4,Epidural hemorrhage,E
+T88.2,Shock due to anaesthesia,E
+T88.8,"Other specified complications of surgical and medical care, not elsewhere classified",E
+T88.9,"Complication of surgical and medical care, unspecified",E
+Y12,"Poisoning by and exposure to narcotics and psychodysleptics (hallucinogens) NEC, undetermined intent",E
+Y14,"Poisoning by and exposure to other and unspecified drugs, medicaments, and biological substances, undetermined intent",E
+D68.8,Other specified coagulation defects,U
+G25.0,Essential tremor,U
+I49.0,Ventricular fibrillation and flutter,U
+I85.0,Esophageal varices with bleeding,U
+J46,Status asthmaticus,U
+J80,Adult respiratory distress syndrome,U
+K52.8,Other specified noninfective gastroenteritis and colitis,U
+L20,Atopic dermatitis,U
+L29,Pruritis,U
+N92.1,Excessive and frequent mestruation with irregular cycle,U
+N92.2,Excessive menstruation at puberty,U
+N92.3,Ovulation bleeding,U
+N92.4,Excessive bleeding in the premenopausal period,U
+N92.6,"Irregular menstruation, unspecified",U
+N93,Other abnormal uterine and vaginal bleeding,U
+N95.0,Postmenopausal bleeding,U
+R44,Other symptoms and signs involving general sensations and perceptions,U
+S06.5,Traumatic subdural hemorrhage,U
+S06.6,Traumatic subarachanoid hemorrhage,U
+S06.8,Other intracranial injuries,U
+T80.7,Unspecified adverse drug effect,U
+T81,"Complications of procedures, not elsewhere classified",U
+Y60.1,"Unintentional cut, puncture, perforation or haemorrhage during during infusion or transfusion",U
+Y60.2,"Unintentional cut, puncture, perforation or haemorrhage during kidney dialysis or other perfusion",U
+Y60.3,"Unintentional cut, puncture, perforation or haemorrhage during injection or immunization",U
+Y62.1,Failure of sterile precautions during infusion or transfusion,U
+Y62.2,Failure of sterile precautions during kidney dialysis or other perfusion,U
+Y62.3,Failure of sterile precautions during injection or immunization,U
+Y64,Contaminated medical or biological substances,U
+Y65.0,Mismatched blood used in transfusion,U
+Z88,"Personal history of allergy to drugs, medicaments, and biological substances",U
+A80.0,"Acute paralytic poliomyelitis, vaccine-associated",V
+M02.2,Postimmunization arthropathy,V
+T88.0,Infection following immunization,V
+T88.1,Infection complications following immunization,V
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
