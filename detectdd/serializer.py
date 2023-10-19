@@ -13,9 +13,12 @@ class Serializer:
 
     def read_cohort(self):
         # Deserialization
-        with open(cohort_out_file, "rb") as infile:
-            deserialized = pickle.load(infile)
-        print("Loaded cohort")
-        return deserialized
+        try:
+            with open(cohort_out_file, "rb") as infile:
+                deserialized = pickle.load(infile)
+            print("Loaded cohort")
+            return deserialized
+        except FileNotFoundError:
+            raise Exception("Need to run [01-cohort.ipynb] to create the cohort file in the /out directory")
 
 # %%
