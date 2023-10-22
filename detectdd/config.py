@@ -30,6 +30,7 @@ emar_interactions_out_file = out_dir / 'emar-drug-interactions.out'
 icu_interactions_out_file = out_dir / 'icu-drug-interactions.out'
 total_interactions_out_file = out_dir / 'total-drug-interactions.out'
 
+bp_results_out_file = out_dir / 'bp_raw_data.out'
 
 ## DB tables
 icu_d_items = '`physionet-data.mimiciv_icu.d_items`'
