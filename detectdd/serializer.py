@@ -50,10 +50,10 @@ class Serializer:
         return config.cohort_full_out_file
 
     def write_bp_results(self, df, suffix=""):
-        _write_file(config.out_dir / "bp_results" + suffix + ".out", df)
+        _write_file(config.out_dir / ("bp_results" + suffix + ".out"), df)
 
     def read_bp_results(self, suffix=""):
-        return _write_file(config.out_dir / "bp_results" + suffix + ".out")
+        return _read_file(config.out_dir / ("bp_results" + suffix + ".out"))
 
 def _write_file(cohort, filename):
     with open(filename, "wb") as outfile:
