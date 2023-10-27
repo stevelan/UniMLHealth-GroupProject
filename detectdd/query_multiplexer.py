@@ -6,6 +6,7 @@
 from datetime import datetime
 from string import Template
 
+import numpy as np
 import pandas as pd
 
 
@@ -15,13 +16,7 @@ class WhereClauseGenerator:
         self.val_col = val_col
         self.where_fragment= Template(where_fragment)
 
-
     def generate(self, key_val_pairs: list):
-
-        if len(key_val_pairs) == 0:
-            raise Exception("Empty list of tuples passed in to generate")
-
-
         clause = ""
         for key_data, val_data in key_val_pairs:
             if clause != "":
@@ -73,7 +68,6 @@ class QueryMultiplexer:
                     consider raising range value, or check for infinite loop""")
 
             found_some = False
-            key_val_data: tuple
             key_val_pairs = []
             for key, value in multi_map_data.items():
                 if len(value) > index:
@@ -83,9 +77,20 @@ class QueryMultiplexer:
                         found_some = True
             if found_some:
                 print(f"Executing query {index+1}, with {len(key_val_pairs)} pairs at {datetime.now()}")
-                new_result = self._query(sql_template, where_clause, key_val_pairs)
-                print(f"Got result with {len(new_result)} values")
-                results = pd.concat([results, new_result])
+
+                partitions = [key_val_pairs]
+                if len(key_val_pairs) > 1500:
+                    print(f"Partitioning key value pairs {len(key_val_pairs)}")
+                    partition_size = 5
+                    partitions = np.array_split(key_val_pairs, partition_size)
+                    print(f"Number of partitions {len(partitions)} with partition_size {len(key_val_pairs) / partition_size}")
+                else:
+                    print("Single partition")
+
+                for p in partitions:
+                    new_result = self._query(sql_template, where_clause, p)
+                    print(f"Got result with {len(new_result)} values")
+                    results = pd.concat([results, new_result])
                 index += 1
             if found_some is False:
                 break
