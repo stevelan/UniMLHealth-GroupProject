@@ -35,6 +35,14 @@ You can then activate the environment with :
 
 ```conda activate detectdd```
 
+### Pipelines
+
+**Functional pipelines:** 
+
+01-cohort -> 01a-cohorts-icd-codes -> 02-ml-data-preprocessing-multiplexed-bp -> 03-ml-training
+This pipeline creates "vitals_data-abc-before-and-after.csv", and 03-ml-training needs to be updated to use the correct csv
+
+
 
 ### Data
 DDInter sourced from : http://ddinter.scbdd.com/download/
