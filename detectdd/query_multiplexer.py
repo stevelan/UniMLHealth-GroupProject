@@ -81,7 +81,7 @@ class QueryMultiplexer:
                 partitions = [key_val_pairs]
                 if len(key_val_pairs) > 1500:
                     print(f"Partitioning key value pairs {len(key_val_pairs)}")
-                    partition_size = 5
+                    partition_size = 6
                     partitions = np.array_split(key_val_pairs, partition_size)
                     print(f"Number of partitions {len(partitions)} with partition_size {len(key_val_pairs) / partition_size}")
                 else:
