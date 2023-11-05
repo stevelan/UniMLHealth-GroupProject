@@ -40,8 +40,10 @@ You can then activate the environment with :
 **Functional pipelines:** 
 
 01-cohort -> 01a-cohorts-icd-codes -> 02-ml-data-preprocessing-multiplexed-bp -> 03-ml-training
-This pipeline creates "vitals_data-before-and-after.csv", and 03-ml-training needs to be updated to use the correct csvs
+                                                                              -> 03-SVM-vitals
 
+This pipeline creates "vitals_data-before-and-after.csv", and 03-ml-training needs to be updated to use the correct csvs
+also baselines the model with SVM
 
 
 ### Data
